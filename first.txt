@@ -1,3 +1,4 @@
 gitを始めます！！
 git add 
 git commit
+git rm
